@@ -3,7 +3,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/alamini" alt="alamini's 42 stats" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoublamini&label=Profile%20views&color=0e75b6&style=flat" alt="ayoublamini" /> </p>
 
-- 🔭 I’m currently working on **Fract-ol**
+- 🔭 I’m currently working on **Philosophers**
 
 - 🌱 I’m currently learning **React Js**
 
