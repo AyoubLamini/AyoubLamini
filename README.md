@@ -3,7 +3,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/alamini" alt="alamini's 42 stats" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoublamini&label=Profile%20views&color=0e75b6&style=flat" alt="ayoublamini" /> </p>
 
-- 🔭 I’m currently working on **CUB3D** (This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way.)
+- 🔭 I’m currently working on **C++ and Object oriented programming** (This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way.)
 
 - 🌱 I’m currently learning **React Js**
 
