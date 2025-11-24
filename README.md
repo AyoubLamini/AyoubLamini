@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayoublamini.dev@gmail.com**
 
-- ⚡ `Push Forwead` 
+- ⚡ `Push Forward` 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
