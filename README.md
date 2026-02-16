@@ -3,9 +3,9 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/alamini" alt="alamini's 42 stats" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoublamini&label=Profile%20views&color=0e75b6&style=flat" alt="ayoublamini" /> </p>
 
-- 🔭 I’m currently working on **ft_transcendence 42**
+- 🔭 I’m currently working on **API Monitoring Web App**
 
-- 🌱 I’m currently learning **Web 3**
+- 🌱 I’m currently learning **Nest Js Framework**
 
 - 📫 How to reach me **ayoublamini.dev@gmail.com**
 
