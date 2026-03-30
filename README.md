@@ -15,7 +15,7 @@
 <p align="left">
   LinkedIn => https://www.linkedin.com/in/ayoub-lamini-844a68341
   <br>
-  Portfolio => coming soon
+  Portfolio => https://www.ayoublamini.dev
   <br>
     Discord => lifeisfraud
 </p>
